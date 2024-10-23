@@ -6,4 +6,8 @@ public class myFunctions{
   public void dropTheClass(){
     System.out.println("Hey guys, im drunk asf rn and I'm probably going to drop the class but ill still do number 3");
   }
+
+  public void missTheDeadline(){
+    System.err.println("Isn't the question dependent on the other question?");
+  }
 }
